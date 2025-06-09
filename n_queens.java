@@ -20,7 +20,6 @@ public class n_queens {
         board[row][col] = true;
         count += solveNQueens(board, row + 1); // Recur to place the next queen
         board[row][col] = false; // Backtrack
-
       }
 
     }
