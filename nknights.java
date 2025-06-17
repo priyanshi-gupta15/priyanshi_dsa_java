@@ -38,8 +38,7 @@ public class nknights {
     if (isvalid(board, row - 2, col - 1) && board[row - 2][col - 1]) return false;
     if (isvalid(board, row - 2, col + 1) && board[row - 2][col + 1]) return false;
     if (isvalid(board, row - 1, col - 2) && board[row - 1][col - 2]) return false;
-    if (isvalid(board, row - 1, col + 2) && board[row - 1][col + 2]) return false;
-    return true;
+    return !(isvalid(board, row - 1, col + 2) && board[row - 1][col + 2]);
   }
 
   static boolean isvalid(boolean[][] board, int row, int col) {

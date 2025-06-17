@@ -1,0 +1,64 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "nextgreaterelementcircular",
+      "request": "launch",
+      "mainClass": "nextgreaterelementcircular",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "nextgreaterelement",
+      "request": "launch",
+      "mainClass": "questions.nextgreaterelement",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "removeconsecutive",
+      "request": "launch",
+      "mainClass": "stacks.removeconsecutive",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "tic_tac_toe",
+      "request": "launch",
+      "mainClass": "tic_tac_toe",
+      "projectName": "JAVAFILE_f46af09f"
+    },
+    {
+      "type": "java",
+      "name": "next_greater_2",
+      "request": "launch",
+      "mainClass": "next_greater_2",
+      "projectName": "JAVAFILE_f46af09f"
+    },
+    {
+      "type": "java",
+      "name": "matrix",
+      "request": "launch",
+      "mainClass": "matrix",
+      "projectName": "JAVAFILE_f46af09f"
+    },
+    {
+      "type": "java",
+      "name": "gcd_lcm",
+      "request": "launch",
+      "mainClass": "gcd_lcm",
+      "projectName": "JAVAFILE_f46af09f"
+    },
+    {
+      "type": "java",
+      "name": "max",
+      "request": "launch",
+      "mainClass": "max",
+      "projectName": "JAVAFILE_f46af09f"
+    }
+  ]
+}
