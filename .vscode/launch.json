@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "infix_to_prefix_expression",
+      "request": "launch",
+      "mainClass": "infix_to_prefix_expression",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "infixtopostfix",
+      "request": "launch",
+      "mainClass": "infixtopostfix",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "SortStackRecursively",
+      "request": "launch",
+      "mainClass": "SortStackRecursively",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "reversestack",
+      "request": "launch",
+      "mainClass": "reversestack",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "sum_minimas",
+      "request": "launch",
+      "mainClass": "sum_minimas",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "largestareahistogram",
+      "request": "launch",
+      "mainClass": "largestareahistogram",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "stock_span",
+      "request": "launch",
+      "mainClass": "stock_span",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
       "name": "nextgreaterelementcircular",
       "request": "launch",
       "mainClass": "nextgreaterelementcircular",
