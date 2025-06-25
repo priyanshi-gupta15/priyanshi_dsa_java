@@ -6,7 +6,7 @@ class infix_to_postfix_expression {
   public static void main(String[] args) {
     Stack<String> num = new Stack<>();
     Stack<Character> op = new Stack<>();
-    String str = "8+(2-2)+4*2/2";
+    String str =   "8+(2-2)+4*2/2";
     for (int i = 0; i < str.length(); i++) {
       char ch = str.charAt(i);
       if (Character.isDigit(ch)) {
@@ -41,7 +41,7 @@ class infix_to_postfix_expression {
       String result = v1 + v2+operator;
       num.push(result);
     }
-    System.out.println("Prefix Expression: " + num.peek());
+    System.out.println("Postfix Expression: " + num.peek());
   }
   public static int precedence(char operator) {
       return switch (operator) {

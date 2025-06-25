@@ -34,7 +34,7 @@ class infix_to_prefix_expression {
       }
     }
 
-    while(op.size() > 0) {
+    while(!op.isEmpty()) {
       String v2 = num.pop();
       String v1 = num.pop();
       char operator = op.pop();

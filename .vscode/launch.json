@@ -6,6 +6,111 @@
   "configurations": [
     {
       "type": "java",
+      "name": "children_sum_BT",
+      "request": "launch",
+      "mainClass": "children_sum_BT",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "generate_all_binary",
+      "request": "launch",
+      "mainClass": "generate_all_binary",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "kth_largest_BST",
+      "request": "launch",
+      "mainClass": "kth_largest_BST",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "ceil_BST",
+      "request": "launch",
+      "mainClass": "ceil_BST",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "min_max_BST",
+      "request": "launch",
+      "mainClass": "min_max_BST",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "BST_traversal",
+      "request": "launch",
+      "mainClass": "BST_traversal",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "forloop",
+      "request": "launch",
+      "mainClass": "forloop",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "permutation",
+      "request": "launch",
+      "mainClass": "permutation",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "celebrity_problem",
+      "request": "launch",
+      "mainClass": "celebrity_problem",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "queue_by_ll",
+      "request": "launch",
+      "mainClass": "queue_by_ll",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "stack_by_LL",
+      "request": "launch",
+      "mainClass": "stack_by_LL",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "postfix_to_infix",
+      "request": "launch",
+      "mainClass": "postfix_to_infix",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "postfix_to_prefix",
+      "request": "launch",
+      "mainClass": "postfix_to_prefix",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "prefix_to_postfix",
+      "request": "launch",
+      "mainClass": "prefix_to_postfix",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "infix_to_postfix_expression",
+      "request": "launch",
+      "mainClass": "infix_to_postfix_expression",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
       "name": "infix_to_prefix_expression",
       "request": "launch",
       "mainClass": "infix_to_prefix_expression",
