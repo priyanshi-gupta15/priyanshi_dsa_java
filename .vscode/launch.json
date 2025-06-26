@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "check_subsquencing_k_sum",
+      "request": "launch",
+      "mainClass": "check_subsquencing_k_sum",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "count_subsqenece_k_sum",
+      "request": "launch",
+      "mainClass": "count_subsqenece_k_sum",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
+      "name": "rat_in_maze",
+      "request": "launch",
+      "mainClass": "rat_in_maze",
+      "projectName": "JAVAFILE_e87871c6"
+    },
+    {
+      "type": "java",
       "name": "children_sum_BT",
       "request": "launch",
       "mainClass": "children_sum_BT",
